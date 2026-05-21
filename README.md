@@ -56,18 +56,6 @@ CryptoTrack/
 └── Assets.xcassets/
 ```
 
-## Getting Started
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/aisel-mohbaliyeva/Crypto-Track_API.git
-   ```
-2. Open `CryptoTrack.xcodeproj` in Xcode 15+
-3. Select a simulator or device (iOS 17+)
-4. Run the project (`Cmd + R`)
-
-> No API key required — CoinGecko free tier is used.
-
 ## API
 
 [CoinGecko API v3](https://www.coingecko.com/en/api) — `/coins/markets` endpoint
